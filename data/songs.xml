@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<songs>
+	<song name="Away in a Manger Easy" path="songs/Away_in_a_Manger_L1.xml" mp3="songs/Away_in_a_Manger.mp3" />
+	<song name="Deck the Halls Easy" path="songs/Deck_the_halls_L1_150.xml" mp3="songs/Deck_the_halls_150.mp3" />
+	<song name="Hark the Herald Easy" path="songs/Hark_The_Herald_L1_115.xml" mp3="songs/Hark_The_Herald115.mp3" />
+	<song name="Come Ye Rockers Easy" path="songs/OhComeAllYeRockers_L1.xml" mp3="songs/OhComeAllYeRockers.mp3" />
+	<song name="Away in a Manger Medium" path="songs/Away_in_a_Manger_L2.xml" mp3="songs/Away_in_a_Manger.mp3" />
+	<song name="Deck the Halls Medium" path="songs/Deck_the_halls_L2_150.xml" mp3="songs/Deck_the_halls_150.mp3" />
+	<song name="Hark the Herald Medium" path="songs/Hark_The_Herald_L2_115.xml" mp3="songs/Hark_The_Herald115.mp3" />
+	<song name="Come Ye Rockers Medium" path="songs/OhComeAllYeRockers_L2.xml" mp3="songs/OhComeAllYeRockers.mp3" />
+	<song name="Away in a Manger Hard" path="songs/Away_in_a_Manger_L3.xml" mp3="songs/Away_in_a_Manger.mp3" />
+	<song name="Deck the Halls Hard" path="songs/Deck_the_halls_L3_150.xml" mp3="songs/Deck_the_halls_150.mp3" />
+	<song name="Hark the Herald Hard" path="songs/Hark_The_Herald_L3_115.xml" mp3="songs/Hark_The_Herald115.mp3" />
+	<song name="Come Ye Rockers Hard" path="songs/OhComeAllYeRockers_L3.xml" mp3="songs/OhComeAllYeRockers.mp3" />
+	<song name="Come Ye Rockers Expert" path="songs/OhComeAllYeRockers_L4.xml" mp3="songs/OhComeAllYeRockers.mp3" />
+	<song name="Short" path="songs/short.xml" mp3="" />
+</songs>

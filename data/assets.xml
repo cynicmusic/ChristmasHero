@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<assets>
+	<asset name="data/songs.xml" variable="songsXML" type="xml" />
+	<asset name="data/animations.xml" variable="animationsXML" type="xml" />
+	<asset name="data/instruments.xml" variable="instrumentsXML" type="xml" />
+	<asset name="graphics/sprites.png" variable="sprites" type="image" />
+	<asset name="sfx/mouseClick.mp3" variable="mouseClick" type="sound" />
+	<asset name="sfx/mouseOver.mp3" variable="mouseOver" type="sound" />
+	<asset name="sfx/startGame.mp3" variable="startGame" type="sound" />
+	<asset name="sfx/youSuck.mp3" variable="youSuck" type="sound" />
+	<asset name="sfx/win.mp3" variable="win" type="sound" />
+	<asset name="sfx/crowdUnrest.mp3" variable="crowdUnrest" type="sound" />
+	<asset name="sfx/openSong.mp3" variable="openSong" type="sound" />
+	<asset name="sfx/fail.mp3" variable="fail" type="sound" />
+	<asset name="sfx/reactionSounds/reaction_Whoa.mp3" variable="reaction_Whoa" type="sound" />
+	<asset name="sfx/reactionSounds/clapMild.mp3" variable="clapMild" type="sound" />
+	<asset name="sfx/reactionSounds/clapMore.mp3" variable="clapMore" type="sound" />
+	<asset name="sfx/reactionSounds/reaction+Clap.mp3" variable="reaction+Clap" type="sound" />
+	<asset name="sfx/reactionSounds/reaction_Yahoo.mp3" variable="reaction_Yahoo" type="sound" />
+	<asset name="sfx/reactionSounds/reactionStrongWomen+Clap.mp3" variable="reactionStrongWomen+Clap" type="sound" />
+</assets>

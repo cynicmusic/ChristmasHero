@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<animations>
+	<animation name="yellowStar" width="32" height="32" xPos="96" yPos="0" fps="1" repetitions="1" sequence="0" spriteSheet="sprites" />
+	<animation name="silverStar" width="32" height="32" xPos="128" yPos="0" fps="1" repetitions="1" sequence="0" spriteSheet="sprites" />
+</animations>

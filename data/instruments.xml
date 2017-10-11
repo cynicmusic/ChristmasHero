@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<instruments>
+  <instrument name="Female Voice">
+    <family>strings</family>
+    <extended>no</extended>
+    <transpose>0</transpose>
+    <playback>0</playback>
+    <assessment>0</assessment>
+    <minFreq>130</minFreq>
+    <maxFreq>900</maxFreq>
+    <windowWidth>1024</windowWidth>
+	<pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>4</overSampTimes>
+	<requiredPitchesPerSecond>10</requiredPitchesPerSecond>
+	<tuningWindow>55</tuningWindow>
+    <matches>
+      <match>Female</match>
+      <match>Voice</match>
+	  <match>Soprano</match>
+	  <match>Alto</match>
+    </matches>
+  </instrument>
+  <instrument name="Male Voice">
+    <family>strings</family>
+    <extended>no</extended>
+    <transpose>-12</transpose>
+    <playback>12</playback>
+    <assessment>12</assessment>
+    <minFreq>40</minFreq>
+    <maxFreq>600</maxFreq>
+    <windowWidth>1024</windowWidth>
+	<pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>4</overSampTimes>
+	<requiredPitchesPerSecond>6</requiredPitchesPerSecond>
+	<tuningWindow>60</tuningWindow>
+    <matches>
+      <match>Male</match>
+      <match>Voice</match>
+	  <match>Baritone</match>
+	  <match>Tenor</match>
+    </matches>
+  </instrument>
+  <instrument name="Soprano Recorder">
+    <family>winds</family>
+    <extended>no</extended>
+    <transpose>12</transpose>
+    <playback>0</playback>
+    <assessment>-12</assessment>
+    <minFreq>500</minFreq>
+    <maxFreq>2500</maxFreq>
+    <windowWidth>256</windowWidth>
+    <pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>2</overSampTimes>
+	<requiredPitchesPerSecond>20</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Soprano Recorder</match>
+      <match>Recorder</match>
+      <match>Piccolo</match>
+      <match>Flute</match>
+    </matches>
+  </instrument>
+  <instrument name="Alto Recorder">
+    <family>winds</family>
+    <extended>yes</extended>
+    <transpose>5</transpose>
+    <playback>5</playback>
+    <assessment>-5</assessment>
+    <minFreq>450</minFreq>
+    <maxFreq>2500</maxFreq>
+    <windowWidth>256</windowWidth>
+    <pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>2</overSampTimes>
+	<requiredPitchesPerSecond>20</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Alto Recorder</match>
+      <match>Recorder</match>
+    </matches>
+  </instrument>
+  
+  
+  <instrument name="Piccolo">
+    <family>winds</family>
+    <extended>no</extended>
+    <transpose>12</transpose>
+    <playback>0</playback>
+    <assessment>-12</assessment>
+    <minFreq>500</minFreq>
+    <maxFreq>2500</maxFreq>
+    <windowWidth>256</windowWidth>
+    <pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>2</overSampTimes>
+	<requiredPitchesPerSecond>20</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Piccolo</match>
+      <match>Recorder</match>
+      <match>Flute</match>
+    </matches>
+  </instrument>
+  <instrument name="Flute">
+    <family>winds</family>
+    <extended>no</extended>
+    <transpose>0</transpose>
+    <playback>0</playback>
+    <assessment>0</assessment>
+    <minFreq>240</minFreq>
+    <maxFreq>2200</maxFreq>
+    <windowWidth>512</windowWidth>
+    <pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>2</overSampTimes>
+	<requiredPitchesPerSecond>10</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Flute</match>
+      <match>Recorder</match>
+      <match>Piccolo</match>
+    </matches>
+  </instrument>
+  <instrument name="Oboe">
+    <family>winds</family>
+    <extended>no</extended>
+    <transpose>0</transpose>
+    <playback>0</playback>
+    <assessment>0</assessment>
+    <minFreq>240</minFreq>
+    <maxFreq>2200</maxFreq>
+    <windowWidth>512</windowWidth>
+    <pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>2</overSampTimes>
+	<requiredPitchesPerSecond>10</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Oboe</match>
+      <match>Flute</match>
+      <match>Recorder</match>
+    </matches>
+  </instrument>
+  <instrument name="Clarinet">
+    <family>winds</family>
+    <extended>no</extended>
+    <transpose>-2</transpose>
+    <playback>0</playback>
+    <assessment>2</assessment>
+    <minFreq>150</minFreq>
+    <maxFreq>1200</maxFreq>
+    <windowWidth>1024</windowWidth>
+    <pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>2</overSampTimes>
+	<requiredPitchesPerSecond>10</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Clarinet in Bb</match>
+      <match>Clarinet</match>
+      <match>Trumpet</match>
+      <match>Flute</match>
+    </matches>
+  </instrument>
+  <instrument name="Soprano Sax">
+    <family>winds</family>
+    <extended>yes</extended>
+    <transpose>-2</transpose>
+    <playback>0</playback>
+    <assessment>2</assessment>
+    <minFreq>150</minFreq>
+    <maxFreq>1200</maxFreq>
+    <windowWidth>1024</windowWidth>
+    <pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>2</overSampTimes>
+	<requiredPitchesPerSecond>10</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Soprano Sax</match>
+      <match>Sax</match>
+      <match>Trumpet</match>
+      <match>Flute</match>
+    </matches>
+  </instrument>
+  <instrument name="Alto Sax">
+    <family>winds</family>
+    <extended>no</extended>
+    <transpose>-9</transpose>
+    <playback>0</playback>
+    <assessment>9</assessment>
+    <minFreq>200</minFreq>
+    <maxFreq>1200</maxFreq>
+    <windowWidth>1024</windowWidth>
+    <pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>2</overSampTimes>
+	<requiredPitchesPerSecond>8</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Alto Sax</match>
+      <match>Sax</match>
+      <match>Flute</match>
+    </matches>
+  </instrument>
+  <instrument name="Tenor Sax">
+    <family>winds</family>
+    <extended>yes</extended>
+    <transpose>-14</transpose>
+    <playback>0</playback>
+    <assessment>14</assessment>
+    <minFreq>100</minFreq>
+    <maxFreq>1000</maxFreq>
+    <windowWidth>1024</windowWidth>
+    <pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>4</overSampTimes>
+	<requiredPitchesPerSecond>8</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Tenor Sax</match>
+      <match>Sax</match>
+      <match>Flute</match>
+    </matches>
+  </instrument>
+  
+  
+  <instrument name="Trumpet">
+    <family>brass</family>
+    <extended>no</extended>
+    <transpose>-2</transpose>
+    <playback>0</playback>
+    <assessment>2</assessment>
+    <minFreq>150</minFreq>
+    <maxFreq>1200</maxFreq>
+    <windowWidth>1024</windowWidth>
+    <pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>2</overSampTimes>
+	<requiredPitchesPerSecond>8</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Trumpet in Bb</match>
+      <match>Bb Trumpet</match>
+      <match>Trumpet</match>
+      <match>Flute</match>
+    </matches>
+  </instrument>
+  <instrument name="Horn in F">
+    <family>brass</family>
+    <extended>no</extended>
+    <transpose>-7</transpose>
+    <playback>0</playback>
+    <assessment>7</assessment>
+    <minFreq>100</minFreq>
+    <maxFreq>1200</maxFreq>
+    <windowWidth>1024</windowWidth>
+    <pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>2</overSampTimes>
+	<requiredPitchesPerSecond>8</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Horn in F</match>
+      <match>F Horn</match>
+      <match>Horn</match>
+      <match>Flute</match>
+    </matches>
+  </instrument>
+  <instrument name="Trombone">
+    <family>brass</family>
+    <extended>no</extended>
+    <transpose>0</transpose>
+    <playback>0</playback>
+    <assessment>0</assessment>
+    <minFreq>60</minFreq>
+    <maxFreq>1200</maxFreq>
+    <windowWidth>1024</windowWidth>
+    <pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>4</overSampTimes>
+	<requiredPitchesPerSecond>8</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Trombone</match>
+      <match>Tuba</match>
+      <match>Bass</match>
+    </matches>
+  </instrument>
+  <instrument name="Euphonium TC">
+    <family>brass</family>
+    <extended>no</extended>
+    <transpose>-14</transpose>
+    <playback>0</playback>
+    <assessment>14</assessment>
+    <minFreq>60</minFreq>
+    <maxFreq>700</maxFreq>
+    <windowWidth>1024</windowWidth>
+    <pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>4</overSampTimes>
+	<requiredPitchesPerSecond>8</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Baritone (T.C.)</match>
+      <match>Baritone</match>
+      <match>Euphonium</match>
+      <match>Tuba</match>
+      <match>Bass</match>
+    </matches>
+  </instrument>
+  <instrument name="Tuba">
+    <family>brass</family>
+    <extended>no</extended>
+    <transpose>0</transpose>
+    <playback>0</playback>
+    <assessment>0</assessment>
+    <minFreq>50</minFreq>
+    <maxFreq>700</maxFreq>
+    <windowWidth>1024</windowWidth>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>4</overSampTimes>
+    <pRecMethod>3</pRecMethod>
+	<requiredPitchesPerSecond>8</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Tuba</match>
+      <match>Bass</match>
+    </matches>
+  </instrument>
+  
+  
+  <instrument name="Violin">
+    <family>strings</family>
+    <extended>no</extended>
+    <transpose>0</transpose>
+    <playback>0</playback>
+    <assessment>0</assessment>
+    <minFreq>250</minFreq>
+    <maxFreq>2500</maxFreq>
+    <windowWidth>512</windowWidth>
+    <pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>2</overSampTimes>
+	<requiredPitchesPerSecond>8</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Violin</match>
+      <match>Flute</match>
+    </matches>
+  </instrument>
+  <instrument name="Viola">
+    <family>strings</family>
+    <extended>yes</extended>
+    <transpose>0</transpose>
+    <playback>0</playback>
+    <assessment>0</assessment>
+    <minFreq>450</minFreq>
+    <maxFreq>2500</maxFreq>
+    <windowWidth>512</windowWidth>
+    <pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>2</overSampTimes>
+	<requiredPitchesPerSecond>8</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Viola</match>
+      <match>Violin</match>
+      <match>Flute</match>
+    </matches>
+  </instrument>
+  <instrument name="Cello">
+    <family>strings</family>
+    <extended>no</extended>
+    <transpose>0</transpose>
+    <playback>0</playback>
+    <assessment>0</assessment>
+    <minFreq>100</minFreq>
+    <maxFreq>1500</maxFreq>
+    <windowWidth>1024</windowWidth>
+    <pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>4</overSampTimes>
+	<requiredPitchesPerSecond>8</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Cello</match>
+      <match>Bass</match>
+      <match>Trombone</match>
+      <match>Tuba</match>
+    </matches>
+  </instrument>
+  <instrument name="Bass">
+    <family>strings</family>
+    <extended>no</extended>
+    <transpose>-12</transpose>
+    <playback>12</playback>
+    <assessment>12</assessment>
+    <minFreq>40</minFreq>
+    <maxFreq>500</maxFreq>
+    <windowWidth>1024</windowWidth>
+	<pRecMethod>3</pRecMethod>
+	<pRecQuality>10</pRecQuality>
+	<overSampTimes>4</overSampTimes>
+	<requiredPitchesPerSecond>8</requiredPitchesPerSecond>
+	<tuningWindow>50</tuningWindow>
+    <matches>
+      <match>Contrabass</match>
+      <match>Bass</match>
+      <match>Tuba</match>
+      <match>Trombone</match>
+    </matches>
+  </instrument>
+</instruments>
